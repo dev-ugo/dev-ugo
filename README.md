@@ -4,7 +4,7 @@
 
 Passionate about backend development and DevOps practices, actively learning modern cloud infrastructure and automation technologies.
 
-[Portfolio](https://ugo-preiswerk.netlify.app/) • [LinkedIn](#) • [Email](#)
+[Portfolio](https://ugo-preiswerk.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/ugo-preiswerk-dev/) • [Email](dev.ugopreis@gmail.com)
 
 </div>
 
@@ -50,17 +50,11 @@ Docker • Linux • Git • CI/CD Pipelines
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=e0e0e0)
-
----
-
 ## Get in Touch
 
 I'm currently in my first year of Bachelor studies, actively seeking opportunities to develop my skills through concrete projects and internships.
 
-**Email:** your@email.com  
+**Email:** dev.ugopreis@gmail.com 
 **Portfolio:** [ugo-preiswerk.netlify.app](https://ugo-preiswerk.netlify.app/)
 
 ---
