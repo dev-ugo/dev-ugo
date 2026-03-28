@@ -1,22 +1,35 @@
+<!--
+  ██╗   ██╗ ██████╗  ██████╗
+  ██║   ██║██╔════╝ ██╔═══██╗
+  ██║   ██║██║  ███╗██║   ██║
+  ██║   ██║██║   ██║██║   ██║
+  ╚██████╔╝╚██████╔╝╚██████╔╝
+   ╚═════╝  ╚═════╝  ╚═════╝
+  github.com/ugo-preiswerk
+-->
+
 <div align="center">
 
-# Ugo Preiswerk
-### Backend Developer & DevOps Enthusiast
-**Geneva, Switzerland** • **Bachelor Web Dev @ CREA Geneva** • **Open to alternance**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ugo--preiswerk.netlify.app-0f172a?style=for-the-badge&logo=netlify&logoColor=white)](https://ugo-preiswerk.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ugo--preiswerk--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-preiswerk-dev/)
-[![Email](https://img.shields.io/badge/Email-dev.ugopreis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ugopreis@gmail.com)
+<!-- Animated terminal SVG banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%24+whoami;ugo-preiswerk+%E2%80%94+Backend+%26+DevOps+Engineer;%24+_" alt="Typing SVG" />
 
 </div>
 
-## About Me
+```bash
+$ cat /etc/profile.d/ugo.conf
+```
 
-Backend developer and DevOps enthusiast currently doing my Bachelor's in Web Development at CREA Geneva. I hold a **Swiss CFC in Application Development** (4-year apprenticeship) and I'm now deepening my skills in **cloud infrastructure, automation, and backend architecture**.
+```yaml
+name        : Ugo Preiswerk
+location    : Geneva, Switzerland 
+role        : Backend Developer & DevOps Enthusiast
+education   : Bachelor Web Dev & AI @ CREA Geneva
+status      : Open to alternance (Backend / DevOps / Cloud)
+```
 
-I care about how things work in production - not just on localhost. Looking for an **alternance in backend development or DevOps/Cloud** to build real things in a real environment.
-
-## Tech Stack
+```bash
+$ ls -la ~/stack/
+```
 
 **Languages**
 
@@ -38,29 +51,66 @@ I care about how things work in production - not just on localhost. Looking for 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## Featured Project
+```bash
+$ git log --oneline --graph ~/projects/
+```
 
-### [Regata — Sailing Race Registration Management](https://github.com/ugo-preiswerk/regata)
+**[Regata — Sailing Race Registration Management](https://github.com/ugo-preiswerk/regata)**
 
-Web application built for my **CFC final project (TPI)** — 88 hours over 11 days. Full registration management for sailing races: user space, interactive race views, and a dedicated admin interface.
+> CFC final project (TPI) — 88h over 11 days. Full registration system for sailing races with user space, interactive race views and admin interface.
 
-**Stack:** `PHP` `MySQL` `JavaScript` `MVC` `HTML/CSS`
+```
+Stack: PHP · MySQL · JavaScript · MVC · HTML/CSS
+```
 
-## Education
-
-| Degree | School | Period |
-|---|---|---|
-| Bachelor in Web Development & AI | CREA Geneva | 2025 – present |
-| CFC in Application Development | Switzerland | 2020 – 2024 |
-
-## Get in Touch
- 
-Whether you have an alternance opportunity, a project idea, or just want to connect — feel free to reach out.
- 
-**Email:** [dev.ugopreis@gmail.com](mailto:dev.ugopreis@gmail.com)  
-**Portfolio:** [ugo-preiswerk.netlify.app](https://ugo-preiswerk.netlify.app/)  
-**LinkedIn:** [ugo-preiswerk-dev](https://www.linkedin.com/in/ugo-preiswerk-dev/)
+```bash
+$ cat ~/stats.sh && bash ~/stats.sh
+```
 
 <div align="center">
-  <sub>Geneva, Switzerland • Available for alternance • Always shipping something</sub>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ugo-preiswerk&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=false&count_private=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugo-preiswerk&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ugo-preiswerk&theme=matrix&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=555555" />
+
+</div>
+
+```bash
+$ cat ~/education.log
+```
+
+| `[DEGREE]` | `[SCHOOL]` | `[PERIOD]` |
+|---|---|---|
+| Bachelor — Web Dev & AI | CREA Geneva | 2025 – present |
+| CFC — Application Development | Switzerland | 2020 – 2024 |
+
+```bash
+$ ./contact.sh --verbose
+```
+
+```
+[+] Portfolio  → https://ugo-preiswerk.netlify.app/
+[+] LinkedIn   → https://www.linkedin.com/in/ugo-preiswerk-dev/
+[+] Email      → dev.ugopreis@gmail.com
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ugo--preiswerk.netlify.app-0f172a?style=for-the-badge&logo=netlify&logoColor=00FF41)](https://ugo-preiswerk.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ugo--preiswerk--dev-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/ugo-preiswerk-dev/)
+[![Email](https://img.shields.io/badge/Email-dev.ugopreis@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:dev.ugopreis@gmail.com)
+
+<div align="center">
+
+```
+> Geneva, Switzerland  •  Available for alternance  •  Always shipping something
+> _
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ugo-preiswerk.ugo-preiswerk&color=00ff41&style=flat-square)
+
 </div>
