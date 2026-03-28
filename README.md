@@ -14,7 +14,7 @@
 
 Backend developer and DevOps enthusiast currently doing my Bachelor's in Web Development at CREA Geneva. I hold a **Swiss CFC in Application Development** (4-year apprenticeship) and I'm now deepening my skills in **cloud infrastructure, automation, and backend architecture**.
 
-I care about how things work in production — not just on localhost. Looking for an **alternance in backend development or DevOps/Cloud** to build real things in a real environment.
+I care about how things work in production - not just on localhost. Looking for an **alternance in backend development or DevOps/Cloud** to build real things in a real environment.
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ Whether you have an alternance opportunity, a project idea, or just want to conn
  
 **Email:** [dev.ugopreis@gmail.com](mailto:dev.ugopreis@gmail.com)  
 **Portfolio:** [ugo-preiswerk.netlify.app](https://ugo-preiswerk.netlify.app/)  
-**LinkedIn:** [ugo-preiswerk-dev](https://www.linkedin.com/in/ugo-preiswerk-dev/
+**LinkedIn:** [ugo-preiswerk-dev](https://www.linkedin.com/in/ugo-preiswerk-dev/)
 
 <div align="center">
   <sub>Geneva, Switzerland • Available for alternance • Always shipping something</sub>
