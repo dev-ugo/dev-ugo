@@ -4,7 +4,7 @@
 
 </div>
 
-**Ugo Preiswerk** — Backend Developer & DevOps Enthusiast  
+**Ugo Preiswerk** - Backend Developer & DevOps Enthusiast  
 Geneva, Switzerland &nbsp;|&nbsp; Bachelor Web Dev & AI @ CREA Geneva &nbsp;|&nbsp; Open to alternance
 
 Backend developer with a **Swiss CFC in Application Development** (4-year apprenticeship). Focused on cloud infrastructure, automation and backend architecture. I care about how things work in production - not just on localhost.
